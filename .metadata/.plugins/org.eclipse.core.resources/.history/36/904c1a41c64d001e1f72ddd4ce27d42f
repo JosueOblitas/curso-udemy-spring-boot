@@ -1,0 +1,3 @@
+text.indexcontroller.index.titutlo = "Hola Spring Framework"
+text.indexcontroller.perfil.titutlo = "Perfil de usuario: "
+text.indexcontroller.listar.titutlo = "Listado de usuarios"

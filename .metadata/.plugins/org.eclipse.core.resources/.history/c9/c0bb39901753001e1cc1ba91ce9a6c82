@@ -1,0 +1,16 @@
+package com.bolsadeideas.springboot.di.app;
+
+import java.util.List;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+import com.bolsadeideas.springboot.di.app.models.domain.ItemFactura;
+
+@Configuration
+public class AppConfig {
+	@Bean("itemsFactura")
+	public List<ItemFactura> registrarItems(){
+		
+	}
+}	

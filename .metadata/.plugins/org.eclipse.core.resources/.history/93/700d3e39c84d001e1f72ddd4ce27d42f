@@ -1,0 +1,3 @@
+text.indexcontroller.index.titulo = Hola Spring Framework
+text.indexcontroller.perfil.titulo = Perfil de usuario:
+text.indexcontroller.listar.titulo = Listado de usuarios
